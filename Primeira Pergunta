@@ -1,0 +1,2 @@
+Ele não deve ser versionado por questões de segurança e configuração do ambiente por que ele normalmente guarda informações como
+SECRET_KEY do django, senhas de banco de dados, tokens de APIs e credenciais de serviços externos.
